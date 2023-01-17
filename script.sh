@@ -1,0 +1,7 @@
+python3 computorv1.py "10 * X^0 + 4 * X^1 - 9.3 * X^2 = 1 * X^0"
+python3 computorv1.py  "40 * X^0 - 9.389 * X^2 = 0"
+python3 computorv1.py  "5 * X^0 + 4 * X^1 = 4 * X^0"
+python3 computorv1.py  "0 = 0"
+python3 computorv1.py  "8 * X^0 - 6 * X^1 + 0 * X^2 - 5.6 * X^3 = 3 * X^0"
+python3 computorv1.py  "5 * X^0 - 6 * X^1 + 0 * X^2 - 5.6 * X^3 = 0"
+python3 computorv1.py  "0 + 158 * X + X^2= 0"
